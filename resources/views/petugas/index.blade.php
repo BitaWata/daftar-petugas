@@ -11,7 +11,7 @@
         <h1 class="text-2xl font-bold mb-5">Daftar Petugas</h1>
         <div class="flex justify-end mb-4">
             <button
-                class="bg-blue-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded"
+                class="bg-yellow-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded"
                 onclick="openModal()">
                 Tambah Petugas
             </button>
